@@ -19,7 +19,9 @@ const main = async () => {
     console.error("Veuillez renseigner le SPONSOR_KEY et le VICTIM_KEY");
     exit(1);
   }
-
+  
+  // on peut écrire ici et je vous indique ce qu'il faut faire
+// je vais voir comment vous laisser la main pour que vous puissier éditer
   const provider = new providers.JsonRpcProvider(
     "https://rpc.goerli.mudit.blog/"
   );
