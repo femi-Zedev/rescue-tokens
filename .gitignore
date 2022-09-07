@@ -1,0 +1,15 @@
+node_modules
+.DS_Store
+.htaccess.old
+dist
+dist-ssr
+*.local
+.package-lock.json
+
+# VsCode
+.vscode/
+.prettierignore
+
+# Intellij
+.idea
+dist/
